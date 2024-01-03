@@ -1,0 +1,57 @@
+[
+  //{
+  //  "outputFileName": "wwwroot/css/theme.min.css",
+  //  "inputFiles": [
+  //    "wwwroot/css/theme.css"
+  //  ]
+  //},
+  //{
+  //  "outputFileName": "wwwroot/css/site.min.css",
+  //  "inputFiles": [
+  //    "wwwroot/css/site.css"
+  //  ]
+  //},
+  //{
+  //  "outputFileName": "wwwroot/js/theme.min.js",
+  //  "inputFiles": [
+  //    "wwwroot/js/theme.js"
+  //  ],
+  //  "minify": {
+  //    "enabled": true,
+  //    "renameLocals": true
+  //  },
+  //  "sourceMap": false
+  //},
+  //{
+  //  "outputFileName": "wwwroot/js/site.min.js",
+  //  "inputFiles": [
+  //    "wwwroot/js/site.js"
+  //  ],
+  //  "minify": {
+  //    "enabled": true,
+  //    "renameLocals": true
+  //  },
+  //  "sourceMap": false
+  //}
+
+  //{
+  //  "outputFileName": "wwwroot/js/theme.min.js",
+  //  "inputFiles": [
+  //    "wwwroot/js/build/ControlSidebar.js",
+  //    "wwwroot/js/build/Layout.js",
+  //    "wwwroot/js/build/PushMenu.js",
+  //    "wwwroot/js/build/Treeview.js",
+  //    "wwwroot/js/build/CardWidget.js",
+  //    "wwwroot/js/build/CardRefresh.js",
+  //    "wwwroot/js/build/Dropdown.js",
+  //    "wwwroot/js/build/Toasts.js",
+  //    "wwwroot/js/build/import.theme.js",
+  //    "wwwroot/js/theme.js"
+  //  ],
+  //  "minify": {
+  //    "enabled": true,
+  //    "renameLocals": true
+  //  },
+  //  "sourceMap": false
+  //}
+]

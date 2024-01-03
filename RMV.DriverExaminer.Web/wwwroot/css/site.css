@@ -1,0 +1,50 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /*margin-bottom: 60px;*/
+}
+.content-wrapper {
+    background: #f4f6f9;
+    min-height: calc(100vh - calc(3.5rem + 1px) - calc(3.5rem + 1px));
+}
+.content-header {
+    min-height:60px;
+}
+.main-footer {
+    background: #fff;
+    border-top: 1px solid #dee2e6;
+    color: #869099;
+    padding: 18px;
+}
+/*[class*=sidebar-dark-] {
+    background-color: #fff;
+}
+[class*=sidebar-light-] .nav-treeview > .nav-item > .nav-link.active, [class*=sidebar-light-] .nav-treeview > .nav-item > .nav-link.active:hover {
+    background-color: rgba(0,0,0,.1);
+    color: #212529;
+}
+[class*=sidebar-light-] .sidebar a {
+    color: #343a40;
+}
+[class*=sidebar-light-] .nav-treeview > .nav-item > .nav-link {
+    color: #777;
+}
+*/
+
